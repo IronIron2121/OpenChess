@@ -12,4 +12,4 @@ I wanted to familiarise myself with object-oriented programming (OOP) in the sec
 
 - Files are working locally, but check that repo is functional when downloaded remotely
 - Unspaghetti-fy code
-	- This program was written when I had relatively little experience in programming, and, unfortunately it definitely shows.
+	- This program was written when I had relatively little experience in programming, and, unfortunately, it shows.
