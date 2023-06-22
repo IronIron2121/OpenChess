@@ -1,3 +1,7 @@
 .git/
 .vs/
-.obj/
+obj/
+bin/
+chessPort2.vcxproj
+chessPort2.vcxproj.filters
+chessPort2.vcxproj.user
